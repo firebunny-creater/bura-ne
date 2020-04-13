@@ -1,3 +1,4 @@
 # Burası Neresi?
-- Npm modüllerin kısa bir bilgi yeri diyelim
-
+- **Kendi yaptığım modüller siteler vs paylaşılan yer**
+# Ne Tür Modüller?
+> **quick.db benzeri ve daha değişik modüller işte**
